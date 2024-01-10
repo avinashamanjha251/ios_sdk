@@ -55,7 +55,7 @@ Pod::Spec.new do |spec|
   #spec.exclude_files = "NPayFramework/Exclude"
   spec.requires_arc = true
   spec.ios.vendored_frameworks = 'NPayFramework.xcframework'
-  spec.dependency "CryptoSwift", "1.7"
+  spec.dependency "CryptoSwift", "1.8"
   # spec.public_header_files = "Classes/**/*.h"
 
 
